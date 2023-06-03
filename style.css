@@ -113,8 +113,7 @@ li{
 /* style pour l'icone de li */
 .del_icon {
     
-    background-image: url("C:/Users/hp/Desktop/acad/web/dom free code camp toto/redom/images/close-button-svgrepo-com-black.svg");
-   
+    background-image: url(ToDoList-App/images/close-button-svgrepo-com-black.svg);   
     background-size: contain;
     background-repeat: no-repeat;
     
